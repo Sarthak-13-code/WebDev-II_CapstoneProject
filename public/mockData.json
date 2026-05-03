@@ -1,0 +1,22 @@
+[
+    {
+        "day": "Mon",
+        "productivity": 30
+    },
+    {
+        "day": "Tue",
+        "productivity": 50
+    },
+    {
+        "day": "Wed",
+        "productivity": 70
+    },
+    {
+        "day": "Thu",
+        "productivity": 60
+    },
+    {
+        "day": "Fri",
+        "productivity": 90
+    }
+]
